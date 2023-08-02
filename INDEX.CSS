@@ -1,0 +1,23 @@
+.imgcaes{
+    width:100%;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#cao1{
+    background-image: url(Images/middle1.jpg)
+}
+#cao2{
+    background-image: url(Images/middle2.jpg)
+}
+#cao3{
+    background-image: url(Images/middle3.jpg)
+}
+#cao4{
+    background-image: url(Images/middle4.jpg)
+}
+.msg{
+    height: 200px;
+}
